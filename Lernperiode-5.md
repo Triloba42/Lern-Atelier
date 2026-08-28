@@ -56,11 +56,13 @@ Heute habe ich die Entity Klasse und die erste Karte hinzugefügt. Ich habe eine
 - [ ] Die Bewegung mit den Pfeil-Tasten zum laufen bringen
 - [ ] Ein Entity daran hindern gegen eine Wand zu laufen
 
-(Heute habe ich... (50-100 Wörter))
+Heute bin ich etwas vom Weg abgekommen. Als ich meinen Code wider anschaute merkte ich das dieser überhaupt nicht gut lesbar war und den Conventionen nicht folgt. Dies begann ich dann zu lösen und zur gleichen Zeit die Funktionen die ich letztes Mal nicht zum laufen gebracht habe zu Debuggen. Mit dem bin ich noch nicht fertig. Ich werde nächstes mal mit dem Refactoring fortfahren.
 
 ## 04.09.2026
 
-3 bis 5 klar messbare Arbeitspakete.
+- [ ] Die Refactoring Liste abarbeiten die ich mit AI geschrieben habe, damit der Code wider lesbar ist
+- [ ] Bugfix: Bei der Bewegung den Player an der alten Position erfolgreich löschen
+- [ ] Feature: Ein Entity daran hindern gegen ein Hinderniss zu laufen
 
 (Heute habe ich... (50-100 Wörter))
 
